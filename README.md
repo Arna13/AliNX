@@ -1,2 +1,8 @@
 # AliNX
-Nintendo Switch CFW
+
+Yet another Nintendo Switch CFW
+
+
+=============================================
+Still in development
+=============================================
