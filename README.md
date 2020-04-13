@@ -11,7 +11,7 @@ It also includes a store that includes several Nintendo Switch games. If you nee
 
 Anon - [Sigpatches](https://gbatemp.net/threads/i-heard-that-you-guys-need-some-sweet-patches-for-atmosphere.521164/)
 
-SciresM - [Atmosphere] (https://github.com/Atmosphere-NX/Atmosphere)
+SciresM - [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
 
 CTCaer - [hekate](https://github.com/CTCaer/hekate)
 
