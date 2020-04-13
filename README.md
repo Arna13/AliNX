@@ -9,13 +9,13 @@ A CFW based on Atmosphère. You have all the applications, plugins and patches n
 It also includes a store that includes several Nintendo Switch games. If you need more help visit [this discord.](https://discord.gg/A26DQKw)
 
 
-Anon - ![Sigpatches](https://gbatemp.net/threads/i-heard-that-you-guys-need-some-sweet-patches-for-atmosphere.521164/)
+Anon - [Sigpatches](https://gbatemp.net/threads/i-heard-that-you-guys-need-some-sweet-patches-for-atmosphere.521164/)
 
-SciresM - ![Atmosphère] (https://github.com/Atmosphere-NX/Atmosphere)
+SciresM - [Atmosphère] (https://github.com/Atmosphere-NX/Atmosphere)
 
-CTCaer - ![hekate](https://github.com/CTCaer/hekate)
+CTCaer - [hekate](https://github.com/CTCaer/hekate)
 
-ITotalJustice - ![Sigpatch](https://github.com/ITotalJustice/sigpatch-updater) and ![atmosphère updater](https://github.com/ITotalJustice/atmosphere-updater)
+ITotalJustice - [Sigpatch](https://github.com/ITotalJustice/sigpatch-updater) and [atmosphère updater](https://github.com/ITotalJustice/atmosphere-updater)
 
 
 ==============================
