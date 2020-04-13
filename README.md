@@ -13,6 +13,8 @@ Anon - [Sigpatches](https://gbatemp.net/threads/i-heard-that-you-guys-need-some-
 SciresM - [Atmosphère] (https://github.com/Atmosphere-NX/Atmosphere)
 CTCaer - [hekate](https://github.com/CTCaer/hekate)
 ITotalJustice - [Sigpatch](https://github.com/ITotalJustice/sigpatch-updater) and [atmosphère updater](https://github.com/ITotalJustice/atmosphere-updater)
+
+
 ==============================
 
 Still in development
