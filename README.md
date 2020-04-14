@@ -16,9 +16,7 @@ Made with ❤ by K&K Staff
 
 ## CFW overview:
   
-  - [Sys-Con](https://github.com/cathery/sys-con) - by cathery
   
-  - [switch-lan-play](https://github.com/spacemeowx2/switch-lan-play) - by spacemeowx2
   
   - [90 DNS Tester](https://github.com/meganukebmp/Switch_90DNS_tester) - by meganukebmp
   
@@ -30,7 +28,7 @@ Made with ❤ by K&K Staff
   
   - [ChoidujourNX](https://switchtools.sshnuke.net/) - by rajkosto
   
-  - [sigpatch-updater](https://github.com/ITotalJustice/sigpatch-updater) and [Gamecard Installer NX](https://github.com/ITotalJustice/Gamecard-Installer-NX) - by ITotalJustice
+  - [sigpatch-updater](https://github.com/ITotalJustice/sigpatch-updater) - by ITotalJustice
   
   - [Edizon](https://github.com/WerWolv/EdiZon) - by WerWolv
   
@@ -42,17 +40,13 @@ Made with ❤ by K&K Staff
   
   - [NXThemesInstaller](https://github.com/exelix11/SwitchThemeInjector/) - by exelix11
   
-  - [90dnstester](https://github.com/meganukebmp/Switch_90DNS_tester) - by meganukebmp
-  
   - [Goldleaf](https://github.com/XorTroll/Goldleaf) - by XorTroll
   
   - [Hekate-Brew](https://github.com/bemardev/HekateBrew) - by bemardev
   
-  - Arna13's theme in /themes folder ready to try!
-  
-  - Custom hekate config and booting image
-  
-  - [Incognito_RCM](https://github.com/jimzrt/Incognito_RCM) and [Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM) included in hekate payloads section
+  - [Sigpatch-Updater](https://github.com/ITotalJustice/sigpatch-updater)- ITotalJustice
+ 
+  - [FTPD](https://github.com/mtheall/ftpd) - mtheall
   
 
 
@@ -64,12 +58,22 @@ Made with ❤ by K&K Staff
 
 ## Some more credits
 
-Anon - [Sigpatches](https://gbatemp.net/threads/i-heard-that-you-guys-need-some-sweet-patches-for-atmosphere.521164/)
+[Sys-Con](https://github.com/cathery/sys-con) - by cathery
+  
+[switch-lan-play](https://github.com/spacemeowx2/switch-lan-play) - by spacemeowx2
 
-SciresM - [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
+[Incognito_RCM](https://github.com/jimzrt/Incognito_RCM) and [Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM) included in hekate payloads section
 
-CTCaer - [hekate](https://github.com/CTCaer/hekate)
+Arna13's theme in /themes folder ready to try!
+  
+Custom hekate config and booting image
 
-ITotalJustice - [Sigpatch](https://github.com/ITotalJustice/sigpatch-updater) and [atmosphère updater](https://github.com/ITotalJustice/atmosphere-updater)
+[Sigpatches](https://gbatemp.net/threads/i-heard-that-you-guys-need-some-sweet-patches-for-atmosphere.521164/) - Anon 
+
+[Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - SciresM 
+
+[hekate](https://github.com/CTCaer/hekate) - CTCaer 
+
+
 
 
