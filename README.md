@@ -15,10 +15,14 @@ Made with ❤ by K&K Staff
 
 
 ## CFW overview:
-
-  - [Sys-Con](https://github.com/cathery/sys-con) and [Sys-ftp-light](https://github.com/cathery/sys-ftpd-light) - by cathery
   
-  - [switch-lan-play](https://github.com/spacemeowx2/switch-lan-play) - by spacemeowx2 
+ - [Sys-Con](https://github.com/cathery/sys-con) and [Sys-ftp-light](https://github.com/cathery/sys-ftpd-light) - by cathery
+  
+  - [switch-lan-play](https://github.com/spacemeowx2/switch-lan-play) - by spacemeowx2
+  
+  - [90 DNS Tester](https://github.com/meganukebmp/Switch_90DNS_tester) - by meganukebmp
+  
+  - [Gamecard Installer NX](https://github.com/ITotalJustice/Gamecard-Installer-NX) - ITotalJustice
   
   - [Tinfoil](https://tinfoil.io) with [thehbgshop](https://thehbg.shop/main.html) repo and botoku-shop repo- by Adubbz
   
