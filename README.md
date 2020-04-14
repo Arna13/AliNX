@@ -1,7 +1,7 @@
 # AliNX
 
 ### [Wallpapers available!](https://drive.google.com/file/d/1HkkyCh66BYuMPTTQ3YFDdhp4AxnfizR3/view?usp=sharing)
-We also have [AliNX Wallpaper 1](https://steamcommunity.com/sharedfiles/filedetails/?id=2061338385) and [AliNX Wallpaper v2](https://steamcommunity.com/sharedfiles/filedetails/?id=2061355092) in wallpaper engine!
+### We also have [AliNX Wallpaper 1](https://steamcommunity.com/sharedfiles/filedetails/?id=2061338385) and [AliNX Wallpaper v2](https://steamcommunity.com/sharedfiles/filedetails/?id=2061355092) in wallpaper engine!
 
 
 Yet another Nintendo Switch AMS based CFW
