@@ -16,7 +16,7 @@ Made with ❤ by K&K Staff
 
 ## CFW overview:
   
- - [Sys-Con](https://github.com/cathery/sys-con) and [Sys-ftpd-light](https://github.com/cathery/sys-ftpd-light) - by cathery
+  - [Sys-Con](https://github.com/cathery/sys-con) - by cathery
   
   - [switch-lan-play](https://github.com/spacemeowx2/switch-lan-play) - by spacemeowx2
   
