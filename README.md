@@ -2,7 +2,7 @@
 
 Yet another Nintendo Switch AMS based CFW
 
-
+![](https://cdn.discordapp.com/attachments/687755425663549485/699727036587180062/banner1.jpg)
 
 ## Introduction
 
