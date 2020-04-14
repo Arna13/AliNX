@@ -48,8 +48,8 @@ Made with ❤ by K&K Staff
 
 ==============================
 
-##Installation guide
-###Coming soon!
+## Installation guide
+### Coming soon!
 
 ==============================
 
