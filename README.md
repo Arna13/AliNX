@@ -16,7 +16,7 @@ Made with ❤ by K&K Staff
 
 ### CFW utilities:
 
-  - [Sys-Con](https://github.com/cathery/sys-con) and [Sys-ftp-light](https://github.com/cathery/sys-ftpd-light)- by cathery
+  - [Sys-Con](https://github.com/cathery/sys-con) and [Sys-ftp-light](https://github.com/cathery/sys-ftpd-light) - by cathery
   
   - [switch-lan-play](https://github.com/spacemeowx2/switch-lan-play) - by spacemeowx2 
   
@@ -37,6 +37,8 @@ Made with ❤ by K&K Staff
   - [NX-Shell](https://github.com/joel16/NX-Shell/) - by joel16
   
   - [NXThemesInstaller](https://github.com/exelix11/SwitchThemeInjector/) - by exelix11
+  
+  - [90dnstester](https://github.com/meganukebmp/Switch_90DNS_tester) - by meganukebmp
   
   - Arna13's theme in /themes folder redy to try!
 
