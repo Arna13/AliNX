@@ -23,6 +23,8 @@ CFW utilities:
 
 ==============================
 
+###Some credits
+
 Anon - [Sigpatches](https://gbatemp.net/threads/i-heard-that-you-guys-need-some-sweet-patches-for-atmosphere.521164/)
 
 SciresM - [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
