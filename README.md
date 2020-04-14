@@ -74,7 +74,6 @@ Custom hekate config and booting image
 
 [hekate](https://github.com/CTCaer/hekate) - CTCaer 
 
-[NEUTOS](https://github.com/borntohonk/NEUTOS/releases) - borntohonk
 
 
 
