@@ -2,7 +2,7 @@
 
 Yet another Nintendo Switch AMS based CFW
 
-==============================
+
 
 ## Introduction
 
@@ -12,7 +12,7 @@ You can visit [this discord](https://discord.gg/A26DQKw) if you have any problem
 Made with ❤ by K&K Staff
 
 
-==============================
+
 
 ## CFW overview:
 
@@ -46,12 +46,12 @@ Made with ❤ by K&K Staff
   
   - [Incognito_RCM](https://github.com/jimzrt/Incognito_RCM) and [Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM) included in hekate payloads section
 
-==============================
+
 
 ## Installation guide
 ### Coming soon!
 
-==============================
+
 
 ### Some more credits
 
@@ -63,4 +63,4 @@ CTCaer - [hekate](https://github.com/CTCaer/hekate)
 
 ITotalJustice - [Sigpatch](https://github.com/ITotalJustice/sigpatch-updater) and [atmosphère updater](https://github.com/ITotalJustice/atmosphere-updater)
 
-==============================
+
