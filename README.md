@@ -46,7 +46,9 @@ Made with ❤ by K&K Staff
   
   - [Goldleaf](https://github.com/XorTroll/Goldleaf) - by XorTroll
   
-  - Arna13's and MarcSeriesX' theme in /themes folder ready to try!
+  - [Hekate-Brew](https://github.com/bemardev/HekateBrew) - by bemardev
+  
+  - Arna13's theme in /themes folder ready to try!
   
   - Custom hekate config and booting image
   
