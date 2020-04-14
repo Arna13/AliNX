@@ -14,7 +14,7 @@ Made with ❤ by K&K Staff
 
 ==============================
 
-### CFW utilities:
+## CFW overview:
 
   - [Sys-Con](https://github.com/cathery/sys-con) and [Sys-ftp-light](https://github.com/cathery/sys-ftpd-light) - by cathery
   
@@ -48,7 +48,12 @@ Made with ❤ by K&K Staff
 
 ==============================
 
-### Some credits
+##Installation guide
+###Coming soon!
+
+==============================
+
+### Some more credits
 
 Anon - [Sigpatches](https://gbatemp.net/threads/i-heard-that-you-guys-need-some-sweet-patches-for-atmosphere.521164/)
 
@@ -57,6 +62,5 @@ SciresM - [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
 CTCaer - [hekate](https://github.com/CTCaer/hekate)
 
 ITotalJustice - [Sigpatch](https://github.com/ITotalJustice/sigpatch-updater) and [atmosphère updater](https://github.com/ITotalJustice/atmosphere-updater)
-
 
 ==============================
