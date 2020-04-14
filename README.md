@@ -6,7 +6,7 @@ Yet another Nintendo Switch AMS based CFW
 
 ## Introduction
 
-Another clean Nintendo Switch CFW based on Atmosphere. You can find some useful nros, sigpatches installed, tinfoil with custom shops, custom themes, etc.
+A clean and simple Nintendo Switch CFW based on Atmosphere. You can find some useful nros, sigpatches installed, tinfoil with custom shops, custom themes and more in it.
 You can visit [this discord](https://discord.gg/A26DQKw) if you have any problem.
 
 Made with ❤ by K&K Staff
