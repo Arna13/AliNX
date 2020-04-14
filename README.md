@@ -2,12 +2,19 @@
 
 Yet another Nintendo Switch AMS based CFW
 
+==============================
+
 ![AliNX Image Banner](https://cdn.discordapp.com/attachments/687755425663549485/699375529081438218/AliNX_Logo.png)
 
 
-A CFW based on Atmosphère. You have all the applications, plugins and patches necessary to function normally.
-It also includes a store that includes several Nintendo Switch games. If you need more help visit [this discord.](https://discord.gg/A26DQKw)
+A CFW based on Atmosphère. You can find some useful nros, sigpatches installed, tinfoil with custom shops, custom themes, etc.
+You can visit [this discord.](https://discord.gg/A26DQKw) if you have any problem.
 
+Made with ❤ by K&K Staff
+
+
+
+==============================
 
 Anon - [Sigpatches](https://gbatemp.net/threads/i-heard-that-you-guys-need-some-sweet-patches-for-atmosphere.521164/)
 
