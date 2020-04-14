@@ -34,7 +34,7 @@ Made with ❤ by K&K Staff
   
   - [Edizon](https://github.com/WerWolv/EdiZon) - by WerWolv
   
-  - [Lock-Logs](https://github.com/StarDustCFW/Lock-Logs) - by Kronos2308
+  - [Lock-Logs](https://github.com/StarDustCFW/Lock-Logs), [Haku33](https://github.com/StarDustCFW/Haku33) and [Link-User](https://github.com/StarDustCFW/LinkUser)- by Kronos2308
   
   - [nxmtp](https://github.com/liuervehc/nxmtp) - by liuervehc
   
@@ -44,11 +44,14 @@ Made with ❤ by K&K Staff
   
   - [90dnstester](https://github.com/meganukebmp/Switch_90DNS_tester) - by meganukebmp
   
-  - Arna13's theme in /themes folder ready to try!
+  - [Goldleaf](https://github.com/XorTroll/Goldleaf) - by XorTroll
+  
+  - Arna13's and MarcSeriesX' theme in /themes folder ready to try!
   
   - Custom hekate config and booting image
   
   - [Incognito_RCM](https://github.com/jimzrt/Incognito_RCM) and [Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM) included in hekate payloads section
+  
 
 
 
