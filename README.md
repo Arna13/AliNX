@@ -6,7 +6,7 @@ Yet another Nintendo Switch AMS based CFW
 
 ## Introduction
 
-Another Nintendo Switch CFW based on Atmosphere. You can find some useful nros, sigpatches installed, tinfoil with custom shops, custom themes, etc.
+Another clean Nintendo Switch CFW based on Atmosphere. You can find some useful nros, sigpatches installed, tinfoil with custom shops, custom themes, etc.
 You can visit [this discord](https://discord.gg/A26DQKw) if you have any problem.
 
 Made with ❤ by K&K Staff
@@ -40,7 +40,11 @@ Made with ❤ by K&K Staff
   
   - [90dnstester](https://github.com/meganukebmp/Switch_90DNS_tester) - by meganukebmp
   
-  - Arna13's theme in /themes folder redy to try!
+  - Arna13's theme in /themes folder ready to try!
+  
+  - Custom hekate config and booting image
+  
+  - [Incognito_RCM](https://github.com/jimzrt/Incognito_RCM) and [Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM) included in hekate payloads section
 
 ==============================
 
