@@ -30,7 +30,7 @@ Made with ❤ by K&K Staff
   
   - [ChoidujourNX](https://switchtools.sshnuke.net/) - by rajkosto
   
-  - [atmosphere-updater](https://github.com/ITotalJustice/atmosphere-updater), [sigpatch-updater](https://github.com/ITotalJustice/sigpatch-updater) and [Gamecard Installer NX](https://github.com/ITotalJustice/Gamecard-Installer-NX) - by ITotalJustice
+  - [sigpatch-updater](https://github.com/ITotalJustice/sigpatch-updater) and [Gamecard Installer NX](https://github.com/ITotalJustice/Gamecard-Installer-NX) - by ITotalJustice
   
   - [Edizon](https://github.com/WerWolv/EdiZon) - by WerWolv
   
