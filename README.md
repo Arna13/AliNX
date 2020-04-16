@@ -8,6 +8,11 @@ Yet another Nintendo Switch AMS based CFW
 
 ![](https://cdn.discordapp.com/attachments/687755425663549485/699727036587180062/banner1.jpg)
 
+## Important!
+
+Download allways from [releases](https://github.com/Arna13/AliNX/releases)! Do not download the source code as hekate will not work!
+
+
 ## Introduction
 
 A clean and simple Nintendo Switch CFW based on Atmosphere. You can find some useful nros, sigpatches installed, tinfoil with custom shops, custom themes and more in it.
