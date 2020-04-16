@@ -62,6 +62,8 @@ Made with ❤ by K&K Staff
 
 ## Some more credits
 
+[Neutos](https://github.com/borntohonk/NEUTOS/tree/0.11.1-NEUTOS): a modified version of AMS to use tinfoil - by borntohonk
+
 [Sys-Con](https://github.com/cathery/sys-con) - by cathery
   
 [switch-lan-play](https://github.com/spacemeowx2/switch-lan-play) - by spacemeowx2
