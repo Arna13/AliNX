@@ -52,6 +52,9 @@ Made with ❤ by K&K Staff
  
   - [FTPD](https://github.com/mtheall/ftpd) - mtheall
   
+  - Arna13's theme in /themes folder ready to try!
+  
+  - Custom hekate config and booting image
 
 
 
@@ -69,10 +72,6 @@ Made with ❤ by K&K Staff
 [switch-lan-play](https://github.com/spacemeowx2/switch-lan-play) - by spacemeowx2
 
 [Incognito_RCM](https://github.com/jimzrt/Incognito_RCM) and [Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM) included in hekate payloads section
-
-Arna13's theme in /themes folder ready to try!
-  
-Custom hekate config and booting image
 
 [Sigpatches](https://gbatemp.net/threads/i-heard-that-you-guys-need-some-sweet-patches-for-atmosphere.521164/) - Anon 
 
