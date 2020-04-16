@@ -36,7 +36,7 @@ Made with ❤ by K&K Staff
   
   - [Edizon](https://github.com/WerWolv/EdiZon) - by WerWolv
   
-  - [Lock-Logs](https://github.com/StarDustCFW/Lock-Logs), [Haku33](https://github.com/StarDustCFW/Haku33) and [Link-User](https://github.com/StarDustCFW/LinkUser)- by Kronos2308
+  - [Lock-Logs](https://github.com/StarDustCFW/Lock-Logs), [Haku33](https://github.com/StarDustCFW/Haku33) and [Link-User](https://github.com/StarDustCFW/LinkUser) - by Kronos2308
   
   - [nxmtp](https://github.com/liuervehc/nxmtp) - by liuervehc
   
