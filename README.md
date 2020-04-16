@@ -26,7 +26,7 @@ Made with ❤ by K&K Staff
   
   - [Gamecard Installer NX](https://github.com/ITotalJustice/Gamecard-Installer-NX) - ITotalJustice
   
-  - [Tinfoil](https://tinfoil.io) with [thehbgshop](https://thehbg.shop/main.html) repo and botoku-shop repo- by Adubbz
+  - [Tinfoil](https://tinfoil.io) with [thehbgshop](https://thehbg.shop/main.html) repo and botoku-shop repo - by Adubbz
   
   - [Awoo-Installer](https://github.com/Huntereb/Awoo-Installer) - by Huntereb
   
