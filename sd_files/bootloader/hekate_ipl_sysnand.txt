@@ -13,7 +13,6 @@ autonogc=1
 [CFW (EMUNAND)]
 fss0=atmosphere/fusee-secondary.bin
 kip1=atmosphere/kip_patches/*
-kip1=atmosphere/kips/ams_mitm.kip
 atmosphere=1
 logopath=bootloader/bootlogo.bmp
 icon=bootloader/res/atmosphere_logo.bmp
@@ -23,7 +22,6 @@ icon=bootloader/res/atmosphere_logo.bmp
 emummc_force_disable=1
 fss0=atmosphere/fusee-secondary.bin
 kip1=atmosphere/kip_patches/*
-kip1=atmosphere/kips/ams_mitm.kip
 atmosphere=1
 logopath=bootloader/bootlogo.bmp
 icon=bootloader/res/atmosphere_logo.bmp
