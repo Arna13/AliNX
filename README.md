@@ -8,6 +8,11 @@ Yet another Nintendo Switch AMS based CFW
 
 ![](https://cdn.discordapp.com/attachments/687755425663549485/699727036587180062/banner1.jpg)
 
+## Important!
+
+Download allways from [releases](https://github.com/Arna13/AliNX/releases)! Do not download the source code as hekate will not work!
+
+
 ## Introduction
 
 A clean and simple Nintendo Switch CFW based on Atmosphere. You can find some useful nros, sigpatches installed, tinfoil with custom shops, custom themes and more in it.
@@ -26,7 +31,7 @@ Made with ❤ by K&K Staff
   
   - [Gamecard Installer NX](https://github.com/ITotalJustice/Gamecard-Installer-NX) - ITotalJustice
   
-  - [Tinfoil](https://tinfoil.io) with [thehbgshop](https://thehbg.shop/main.html) repo and botoku-shop repo- by Adubbz
+  - [Tinfoil](https://tinfoil.io) with [thehbgshop](https://thehbg.shop/main.html) repo and botoku-shop repo - by Adubbz
   
   - [Awoo-Installer](https://github.com/Huntereb/Awoo-Installer) - by Huntereb
   
@@ -36,7 +41,7 @@ Made with ❤ by K&K Staff
   
   - [Edizon](https://github.com/WerWolv/EdiZon) - by WerWolv
   
-  - [Lock-Logs](https://github.com/StarDustCFW/Lock-Logs), [Haku33](https://github.com/StarDustCFW/Haku33) and [Link-User](https://github.com/StarDustCFW/LinkUser)- by Kronos2308
+  - [Lock-Logs](https://github.com/StarDustCFW/Lock-Logs), [Haku33](https://github.com/StarDustCFW/Haku33) and [Link-User](https://github.com/StarDustCFW/LinkUser) - by Kronos2308
   
   - [nxmtp](https://github.com/liuervehc/nxmtp) - by liuervehc
   
@@ -52,6 +57,9 @@ Made with ❤ by K&K Staff
  
   - [FTPD](https://github.com/mtheall/ftpd) - mtheall
   
+  - Arna13's theme in /themes folder ready to try!
+  
+  - Custom hekate config and booting image
 
 
 
@@ -67,10 +75,6 @@ Made with ❤ by K&K Staff
 [switch-lan-play](https://github.com/spacemeowx2/switch-lan-play) - by spacemeowx2
 
 [Incognito_RCM](https://github.com/jimzrt/Incognito_RCM) and [Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM) included in hekate payloads section
-
-Arna13's theme in /themes folder ready to try!
-  
-Custom hekate config and booting image
 
 [Sigpatches](https://gbatemp.net/threads/i-heard-that-you-guys-need-some-sweet-patches-for-atmosphere.521164/) - Anon 
 
