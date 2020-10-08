@@ -1,7 +1,7 @@
-# AliNX
+# (DEPRECATED) AliNX
 
-### [Wallpapers available!](https://drive.google.com/file/d/1HkkyCh66BYuMPTTQ3YFDdhp4AxnfizR3/view?usp=sharing)
-### We also have [AliNX Wallpaper 1](https://steamcommunity.com/sharedfiles/filedetails/?id=2061338385) and [AliNX Wallpaper v2](https://steamcommunity.com/sharedfiles/filedetails/?id=2061355092) in wallpaper engine!
+
+THIS PROJECT HAS BEEN ABANDONED AND NO SUPPORT WILL BE GIVEN, IF YOU WANT TO CONTINUE THIS PROJECT, PLEASE, DM ME AT DISCORD (Arna13#9999)
 
 
 Yet another Nintendo Switch CFW pack
